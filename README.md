@@ -11,7 +11,7 @@ The intent is to easily use [et-book](https://github.com/edwardtufte/et-book/) t
 Simply require the package in your project’s entry file:
 
 ```javascript
-// Load Inter UI typeface
+// Load ET Book typeface
 require('typeface-et-book')
 ```
 
