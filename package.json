@@ -1,0 +1,14 @@
+{
+  "name": "typeface-et-book",
+  "version": "0.0.1",
+  "main": "et-book/et-book.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "et book"
+  ],
+  "repository": "https://github.com/jonathanvoelkle/typeface-et-book.git",
+  "author": "Jonathan Völkle <jonathan.voelkle@web.de>",
+  "license": "MIT"
+}
